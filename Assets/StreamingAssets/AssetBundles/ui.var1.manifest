@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 4222398064
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 592407ef6818781de57917656bdad8ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 618556c9c342c8019e7d839a9805a978
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d048413b0ca7943a559315fe3a2189, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cb374e1be598034f8bc4abeca31a2fb, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a7ac8d4e543be540b6698891d82acb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f98899e035da4c4eb319c205b9ad005, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c35b25bf9ee394f4c86c5016d1c5a551, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/UI_pages/GameHUD.prefab
+- Assets/Prefab/UI_pages/MainMenu.prefab
+- Assets/Prefab/UI_pages/EndPage.prefab
+- Assets/Prefab/UI_pages/Background.prefab
+- Assets/Prefab/UI_pages/Story.prefab
+Dependencies: []

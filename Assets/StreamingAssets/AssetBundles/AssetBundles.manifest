@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2147808713
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabbundle.var1
+      Dependencies: {}
+    Info_1:
+      Name: ui.var1
+      Dependencies: {}

@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1125516208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 764b0f81cb37cdf04165962a888c4669
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 11c70a9484614381369755a364c51a4b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 861a1a60688a3e546b025d619e80d56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 017a1694e619399438e0849208c26680, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e52dca084bca34e46969c774a674a8d0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/segment.prefab
+- Assets/Prefab/line.prefab
+Dependencies: []

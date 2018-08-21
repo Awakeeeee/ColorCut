@@ -14,7 +14,11 @@ public class BuildAssetBundle
         {
             Directory.CreateDirectory(directory);
         }
-        //BuildPipeline.BuildAssetBundles(directory, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
+
+        BuildPipeline.BuildAssetBundles(directory, BuildAssetBundleOptions.None, BuildTarget.iOS);
+
+        /*
+
 #if UNITY_ANDROID
         BuildPipeline.BuildAssetBundles(directory, BuildAssetBundleOptions.None, BuildTarget.Android);
 #elif UNITY_EDITOR || UNITY_WIN
@@ -24,5 +28,6 @@ public class BuildAssetBundle
 #elif UNITY_STANDALONE_OSX
         BuildPipeline.BuildAssetBundles(directory, BuildAssetBundleOptions.None, BuildTarget.StandaloneOSX);
 #endif
+        */
     }
 }

@@ -77,7 +77,10 @@ public class Finger : MonoBehaviour
 #elif UNITY_ANDROID
         Control_WIN();
 #elif UNITY_IOS
-        Control_WIN();
+        if (!UnityEngine.EventSystems.EventSystem.current.IsPointerOverGameObject())
+        {
+            Control_WIN();
+        }
 #endif
 
         if (segmentTrack.Count > 0)
